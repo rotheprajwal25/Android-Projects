@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "939616318586",
+    "firebase_url": "https://abtohoja-e838d.firebaseio.com",
+    "project_id": "abtohoja-e838d",
+    "storage_bucket": "abtohoja-e838d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939616318586:android:27623bce16aa6d82",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939616318586-s51avjsi6cae040d3sner4b52fcrc88q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facedetection",
+            "certificate_hash": "d32d22a7d1464a0b74d9638908949d08f4f62f39"
+          }
+        },
+        {
+          "client_id": "939616318586-0iv1nl8prpm1nb9j1fh6s4o543cibi6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUmo_pOedlU3vRgfYmVAMPf2y30We2UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939616318586-0iv1nl8prpm1nb9j1fh6s4o543cibi6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939616318586:android:2161f2f36b70120a",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939616318586-ffo828psu3e8085fqmris4n022feoni5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facedetectionapp",
+            "certificate_hash": "d32d22a7d1464a0b74d9638908949d08f4f62f39"
+          }
+        },
+        {
+          "client_id": "939616318586-0iv1nl8prpm1nb9j1fh6s4o543cibi6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUmo_pOedlU3vRgfYmVAMPf2y30We2UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939616318586-0iv1nl8prpm1nb9j1fh6s4o543cibi6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
